@@ -4,7 +4,7 @@ DOCKER="docker"
 set +e
 $DOCKER ps >/dev/null 2>&1
 if [ $? != 0 ]; then
-	DOCKER="sudo docker"
+	DOCKER="docker"
 fi
 if ! $DOCKER ps >/dev/null; then
 	echo "error connecting to docker:"
