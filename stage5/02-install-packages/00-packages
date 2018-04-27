@@ -1,3 +1,4 @@
 cmake
 subversion
 tmux
+python-matplotlib
