@@ -1,2 +1,2 @@
 IMG_NAME='Raspbian-S3GRO'
-USE_QEMU=1
+USE_QEMU=0
