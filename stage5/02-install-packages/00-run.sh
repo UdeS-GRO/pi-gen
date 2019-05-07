@@ -9,5 +9,7 @@ tar xf arduino-1.8.5-linuxarm.tar.xz
 cd arduino-1.8.5
 ./install.sh
 cd ..
+
+pip install -U platformio
 EOF
 
