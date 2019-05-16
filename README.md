@@ -13,7 +13,7 @@ Lien vers la dernière version de l'image prête à être copiée sur votre cart
 
 * Suivre les instructions du logiciel*
 
-_*Attention à ne pas reformater la carte SD lorsque le logiciel à fini l'installation de l'image sur la carte SD._
+_*Attention à ne pas reformater la carte SD lorsque le logiciel a fini l'installation de l'image sur la carte SD._
 
 
 
