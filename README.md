@@ -9,7 +9,7 @@ Lien vers la dernière version de l'image prête à être copiée sur votre cart
 
 * Télécharger la dernière version de l'image [S3GRO 0.2.1](https://github.com/UdeS-GRO/pi-gen/releases/tag/2018-05-09-s3gro-0.2.1)
 
-* Télécharger et installer le logiciel [ETCHER](https://etcher.io/)
+* Télécharger et installer le logiciel [balenaEtcher](https://www.balena.io/etcher/)
 
 * Suivre les instructions du logiciel*
 
