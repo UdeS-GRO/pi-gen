@@ -4,3 +4,5 @@ tmux
 python-matplotlib
 vim
 avrdude
+screen
+minicom
