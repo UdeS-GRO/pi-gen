@@ -2,12 +2,12 @@
 
 Lien vers la dernière version de l'image prête à être copiée sur votre carte SD :
 
-[S3GRO 0.2.1](https://github.com/UdeS-GRO/pi-gen/releases/tag/2018-05-09-s3gro-0.2.1)
+[S3GRO 0.3.1](https://github.com/UdeS-GRO/pi-gen/releases/tag/2019-05-25-0.3.1)
 
 
 ## Guide d'installation de l'image
 
-* Télécharger la dernière version de l'image [S3GRO 0.2.1](https://github.com/UdeS-GRO/pi-gen/releases/tag/2018-05-09-s3gro-0.2.1)
+* Télécharger la dernière version de l'image [S3GRO 0.3.1](https://github.com/UdeS-GRO/pi-gen/releases/tag/2019-05-25-0.3.1)
 
 * Télécharger et installer le logiciel [balenaEtcher](https://www.balena.io/etcher/)
 
